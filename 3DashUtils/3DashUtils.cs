@@ -30,13 +30,13 @@ public class _3DashUtils
     MelonMod
 #endif
 {
-    public const string MODNAME = "3DashUtils";
+    public const string MODNAME = "3DashUtilsRE";
 
-    public const string AUTHOR = "art0007i";
+    public const string AUTHOR = "TilaposGR";
 
-    public const string GUID = "me.art0007i.3DashUtils";
+    public const string GUID = "me.tilaposgr.3DashUtilsRE";
 
-    public const string VERSION = "1.3.0";
+    public const string VERSION = "1.3.1";
 
     public static UniversalLogger Log { get; private set; }
 #pragma warning disable CS0109 // Member does not hide an inherited member; new keyword is not required
